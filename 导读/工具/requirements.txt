@@ -1,0 +1,18 @@
+# 《线性代数不难》配套依赖（pip / uv 用）
+# 用法：
+#   pip install -r 导读/工具/requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+# 或：
+#   uv pip install --python .venv -r 导读/工具/requirements.txt
+numpy
+pandas
+matplotlib
+seaborn
+networkx
+scikit-learn
+statsmodels
+sympy
+scipy
+jupyterlab
+ipykernel
+ipympl
+pypdf

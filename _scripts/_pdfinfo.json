@@ -1,0 +1,2026 @@
+[
+ {
+  "file": "LA_00_Front_Matter_Vol1_EN.pdf",
+  "kind": "OTHER"
+ },
+ {
+  "file": "LA_00_PPT_Linear Algebra Made Easy and Visual with Python_Front_Matter_EN.pdf",
+  "kind": "OTHER"
+ },
+ {
+  "file": "LA_00_PPT_线性代数不难_正文前_中文.pdf",
+  "kind": "OTHER"
+ },
+ {
+  "file": "LA_00_上册_正文前_V2.pdf",
+  "kind": "OTHER"
+ },
+ {
+  "file": "LA_00_下册_正文前_V2.pdf",
+  "kind": "OTHER"
+ },
+ {
+  "file": "LA_01_01_PPT_What_Is_A_Vector_EN.pdf",
+  "ch": "01",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_01_01_PPT_What_Is_A_Vector_EN.pdf"
+ },
+ {
+  "file": "LA_01_01_PPT_什么是向量_中文.pdf",
+  "ch": "01",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_01_01_PPT_什么是向量_中文.pdf"
+ },
+ {
+  "file": "LA_01_01_What_Is_a_Vector_EN.pdf",
+  "ch": "01",
+  "sec": "01",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_01_01_What_Is_a_Vector_EN.pdf"
+ },
+ {
+  "file": "LA_01_01_什么是向量.pdf",
+  "ch": "01",
+  "sec": "01",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_01_01_什么是向量.pdf"
+ },
+ {
+  "file": "LA_01_02_Coordinate_Systems_EN.pdf",
+  "ch": "01",
+  "sec": "02",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_01_02_Coordinate_Systems_EN.pdf"
+ },
+ {
+  "file": "LA_01_02_PPT_Coordinate_Systems_EN.pdf",
+  "ch": "01",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_01_02_PPT_Coordinate_Systems_EN.pdf"
+ },
+ {
+  "file": "LA_01_02_PPT_坐标系_中文.pdf",
+  "ch": "01",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_01_02_PPT_坐标系_中文.pdf"
+ },
+ {
+  "file": "LA_01_02_坐标系.pdf",
+  "ch": "01",
+  "sec": "02",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_01_02_坐标系.pdf"
+ },
+ {
+  "file": "LA_01_03_PPT_Vector_Addition_and_Subtraction_EN.pdf",
+  "ch": "01",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_01_03_PPT_Vector_Addition_and_Subtraction_EN.pdf"
+ },
+ {
+  "file": "LA_01_03_PPT_向量加减法_中文.pdf",
+  "ch": "01",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_01_03_PPT_向量加减法_中文.pdf"
+ },
+ {
+  "file": "LA_01_03_Vector_Addition_and_Subtraction_EN.pdf",
+  "ch": "01",
+  "sec": "03",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_01_03_Vector_Addition_and_Subtraction_EN.pdf"
+ },
+ {
+  "file": "LA_01_03_向量加减法.pdf",
+  "ch": "01",
+  "sec": "03",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_01_03_向量加减法.pdf"
+ },
+ {
+  "file": "LA_01_04_PPT_Vector_Scalar_Multiplication_EN.pdf",
+  "ch": "01",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_01_04_PPT_Vector_Scalar_Multiplication_EN.pdf"
+ },
+ {
+  "file": "LA_01_04_PPT_向量标量乘法_中文.pdf",
+  "ch": "01",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_01_04_PPT_向量标量乘法_中文.pdf"
+ },
+ {
+  "file": "LA_01_04_Vector_Scalar_Multiplication_EN.pdf",
+  "ch": "01",
+  "sec": "04",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_01_04_Vector_Scalar_Multiplication_EN.pdf"
+ },
+ {
+  "file": "LA_01_04_向量标量乘法.pdf",
+  "ch": "01",
+  "sec": "04",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_01_04_向量标量乘法.pdf"
+ },
+ {
+  "file": "LA_01_05_PPT_Unit_Vector_EN.pdf",
+  "ch": "01",
+  "sec": "05",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_01_05_PPT_Unit_Vector_EN.pdf"
+ },
+ {
+  "file": "LA_01_05_PPT_单位向量_中文.pdf",
+  "ch": "01",
+  "sec": "05",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_01_05_PPT_单位向量_中文.pdf"
+ },
+ {
+  "file": "LA_01_05_Unit_Vector_EN.pdf",
+  "ch": "01",
+  "sec": "05",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_01_05_Unit_Vector_EN.pdf"
+ },
+ {
+  "file": "LA_01_05_单位向量.pdf",
+  "ch": "01",
+  "sec": "05",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_01_05_单位向量.pdf"
+ },
+ {
+  "file": "LA_01_06_PPT_Vector_Inner_Product_EN.pdf",
+  "ch": "01",
+  "sec": "06",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_01_06_PPT_Vector_Inner_Product_EN.pdf"
+ },
+ {
+  "file": "LA_01_06_PPT_向量内积_中文.pdf",
+  "ch": "01",
+  "sec": "06",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_01_06_PPT_向量内积_中文.pdf"
+ },
+ {
+  "file": "LA_01_06_Vector_Inner_Product_EN.pdf",
+  "ch": "01",
+  "sec": "06",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_01_06_Vector_Inner_Product_EN.pdf"
+ },
+ {
+  "file": "LA_01_06_向量内积.pdf",
+  "ch": "01",
+  "sec": "06",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_01_06_向量内积.pdf"
+ },
+ {
+  "file": "LA_01_07_PPT_Projection_EN.pdf",
+  "ch": "01",
+  "sec": "07",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_01_07_PPT_Projection_EN.pdf"
+ },
+ {
+  "file": "LA_01_07_PPT_投影_中文.pdf",
+  "ch": "01",
+  "sec": "07",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_01_07_PPT_投影_中文.pdf"
+ },
+ {
+  "file": "LA_01_07_Projection_EN.pdf",
+  "ch": "01",
+  "sec": "07",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_01_07_Projection_EN.pdf"
+ },
+ {
+  "file": "LA_01_07_投影.pdf",
+  "ch": "01",
+  "sec": "07",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_01_07_投影.pdf"
+ },
+ {
+  "file": "LA_01_08_PPT_Vector_Norm_EN.pdf",
+  "ch": "01",
+  "sec": "08",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_01_08_PPT_Vector_Norm_EN.pdf"
+ },
+ {
+  "file": "LA_01_08_PPT_向量范数_中文.pdf",
+  "ch": "01",
+  "sec": "08",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_01_08_PPT_向量范数_中文.pdf"
+ },
+ {
+  "file": "LA_01_08_Vector_Norm_EN.pdf",
+  "ch": "01",
+  "sec": "08",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_01_08_Vector_Norm_EN.pdf"
+ },
+ {
+  "file": "LA_01_08_向量范数.pdf",
+  "ch": "01",
+  "sec": "08",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_01_08_向量范数.pdf"
+ },
+ {
+  "file": "LA_02_01_Matrix_EN.pdf",
+  "ch": "02",
+  "sec": "01",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_02_01_Matrix_EN.pdf"
+ },
+ {
+  "file": "LA_02_01_PPT_Matrix_EN.pdf",
+  "ch": "02",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_02_01_PPT_Matrix_EN.pdf"
+ },
+ {
+  "file": "LA_02_01_PPT_矩阵_中文.pdf",
+  "ch": "02",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_02_01_PPT_矩阵_中文.pdf"
+ },
+ {
+  "file": "LA_02_01_矩阵.pdf",
+  "ch": "02",
+  "sec": "01",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_02_01_矩阵.pdf"
+ },
+ {
+  "file": "LA_02_02_Matrix_Transpose_EN.pdf",
+  "ch": "02",
+  "sec": "02",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_02_02_Matrix_Transpose_EN.pdf"
+ },
+ {
+  "file": "LA_02_02_PPT_Transpose_EN.pdf",
+  "ch": "02",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_02_02_PPT_Transpose_EN.pdf"
+ },
+ {
+  "file": "LA_02_02_PPT_矩阵转置_中文.pdf",
+  "ch": "02",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_02_02_PPT_矩阵转置_中文.pdf"
+ },
+ {
+  "file": "LA_02_02_矩阵转置.pdf",
+  "ch": "02",
+  "sec": "02",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_02_02_矩阵转置.pdf"
+ },
+ {
+  "file": "LA_02_03_Matrix_Shape_EN.pdf",
+  "ch": "02",
+  "sec": "03",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_02_03_Matrix_Shape_EN.pdf"
+ },
+ {
+  "file": "LA_02_03_PPT_Shape_of_Matrix_EN.pdf",
+  "ch": "02",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_02_03_PPT_Shape_of_Matrix_EN.pdf"
+ },
+ {
+  "file": "LA_02_03_PPT_矩阵的形状_中文.pdf",
+  "ch": "02",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_02_03_PPT_矩阵的形状_中文.pdf"
+ },
+ {
+  "file": "LA_02_03_矩阵的形状.pdf",
+  "ch": "02",
+  "sec": "03",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_02_03_矩阵的形状.pdf"
+ },
+ {
+  "file": "LA_02_04_Matrix_Multiplication_EN.pdf",
+  "ch": "02",
+  "sec": "04",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_02_04_Matrix_Multiplication_EN.pdf"
+ },
+ {
+  "file": "LA_02_04_PPT_Matrix_Multiplication_EN.pdf",
+  "ch": "02",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_02_04_PPT_Matrix_Multiplication_EN.pdf"
+ },
+ {
+  "file": "LA_02_04_PPT_矩阵乘法_中文.pdf",
+  "ch": "02",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_02_04_PPT_矩阵乘法_中文.pdf"
+ },
+ {
+  "file": "LA_02_04_矩阵乘法.pdf",
+  "ch": "02",
+  "sec": "04",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_02_04_矩阵乘法.pdf"
+ },
+ {
+  "file": "LA_02_05_Geometric_Perspective_EN.pdf",
+  "ch": "02",
+  "sec": "05",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_02_05_Geometric_Perspective_EN.pdf"
+ },
+ {
+  "file": "LA_02_05_PPT_Geometric_View_of_Matrix_Multiplication_EN.pdf",
+  "ch": "02",
+  "sec": "05",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_02_05_PPT_Geometric_View_of_Matrix_Multiplication_EN.pdf"
+ },
+ {
+  "file": "LA_02_05_PPT_矩阵乘法的几何视角_中文.pdf",
+  "ch": "02",
+  "sec": "05",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_02_05_PPT_矩阵乘法的几何视角_中文.pdf"
+ },
+ {
+  "file": "LA_02_05_矩阵乘法几何视角.pdf",
+  "ch": "02",
+  "sec": "05",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_02_05_矩阵乘法几何视角.pdf"
+ },
+ {
+  "file": "LA_02_06_Matrix_Multiplication_Properties_EN.pdf",
+  "ch": "02",
+  "sec": "06",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_02_06_Matrix_Multiplication_Properties_EN.pdf"
+ },
+ {
+  "file": "LA_02_06_PPT_Properties_of_Matrix_Multiplication_EN.pdf",
+  "ch": "02",
+  "sec": "06",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_02_06_PPT_Properties_of_Matrix_Multiplication_EN.pdf"
+ },
+ {
+  "file": "LA_02_06_PPT_矩阵乘法性质_中文.pdf",
+  "ch": "02",
+  "sec": "06",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_02_06_PPT_矩阵乘法性质_中文.pdf"
+ },
+ {
+  "file": "LA_02_06_矩阵乘法性质.pdf",
+  "ch": "02",
+  "sec": "06",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_02_06_矩阵乘法性质.pdf"
+ },
+ {
+  "file": "LA_03_01_Matrix_Multiplication_First_Perspective_EN.pdf",
+  "ch": "03",
+  "sec": "01",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_03_01_Matrix_Multiplication_First_Perspective_EN.pdf"
+ },
+ {
+  "file": "LA_03_01_PPT_First_View_of_Matrix_Multiplication_EN.pdf",
+  "ch": "03",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_03_01_PPT_First_View_of_Matrix_Multiplication_EN.pdf"
+ },
+ {
+  "file": "LA_03_01_PPT_矩阵乘法第一视角_中文.pdf",
+  "ch": "03",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_03_01_PPT_矩阵乘法第一视角_中文.pdf"
+ },
+ {
+  "file": "LA_03_01_矩阵乘法第一视角.pdf",
+  "ch": "03",
+  "sec": "01",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_03_01_矩阵乘法第一视角.pdf"
+ },
+ {
+  "file": "LA_03_02_Matrix_Multiplication_Second_Perspective_EN.pdf",
+  "ch": "03",
+  "sec": "02",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_03_02_Matrix_Multiplication_Second_Perspective_EN.pdf"
+ },
+ {
+  "file": "LA_03_02_PPT_Second_View_of_Matrix_Multiplication_EN.pdf",
+  "ch": "03",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_03_02_PPT_Second_View_of_Matrix_Multiplication_EN.pdf"
+ },
+ {
+  "file": "LA_03_02_PPT_矩阵乘法的第二视角_中文.pdf",
+  "ch": "03",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_03_02_PPT_矩阵乘法的第二视角_中文.pdf"
+ },
+ {
+  "file": "LA_03_02_矩阵乘法第二视角.pdf",
+  "ch": "03",
+  "sec": "02",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_03_02_矩阵乘法第二视角.pdf"
+ },
+ {
+  "file": "LA_03_03_Matrix_Multiplication_Third_Perspective_EN.pdf",
+  "ch": "03",
+  "sec": "03",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_03_03_Matrix_Multiplication_Third_Perspective_EN.pdf"
+ },
+ {
+  "file": "LA_03_03_PPT_Third_View_of_Matrix_Multiplication_EN.pdf",
+  "ch": "03",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_03_03_PPT_Third_View_of_Matrix_Multiplication_EN.pdf"
+ },
+ {
+  "file": "LA_03_03_PPT_矩阵乘法的第三视角_中文.pdf",
+  "ch": "03",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_03_03_PPT_矩阵乘法的第三视角_中文.pdf"
+ },
+ {
+  "file": "LA_03_03_矩阵乘法第三视角.pdf",
+  "ch": "03",
+  "sec": "03",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_03_03_矩阵乘法第三视角.pdf"
+ },
+ {
+  "file": "LA_03_04_Matrix_Multiplication_Fourth_Perspective_EN.pdf",
+  "ch": "03",
+  "sec": "04",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_03_04_Matrix_Multiplication_Fourth_Perspective_EN.pdf"
+ },
+ {
+  "file": "LA_03_04_PPT_Fourth_View_of_Matrix_Multiplication_EN.pdf",
+  "ch": "03",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_03_04_PPT_Fourth_View_of_Matrix_Multiplication_EN.pdf"
+ },
+ {
+  "file": "LA_03_04_PPT_矩阵乘法的第四视角_中文.pdf",
+  "ch": "03",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_03_04_PPT_矩阵乘法的第四视角_中文.pdf"
+ },
+ {
+  "file": "LA_03_04_矩阵乘法第四视角.pdf",
+  "ch": "03",
+  "sec": "04",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_03_04_矩阵乘法第四视角.pdf"
+ },
+ {
+  "file": "LA_03_05_Block_Matrix_Multiplication_EN.pdf",
+  "ch": "03",
+  "sec": "05",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_03_05_Block_Matrix_Multiplication_EN.pdf"
+ },
+ {
+  "file": "LA_03_05_PPT_Block_Matrix_Multiplication_EN.pdf",
+  "ch": "03",
+  "sec": "05",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_03_05_PPT_Block_Matrix_Multiplication_EN.pdf"
+ },
+ {
+  "file": "LA_03_05_PPT_分块矩阵乘法_中文.pdf",
+  "ch": "03",
+  "sec": "05",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_03_05_PPT_分块矩阵乘法_中文.pdf"
+ },
+ {
+  "file": "LA_03_05_分块矩阵乘法.pdf",
+  "ch": "03",
+  "sec": "05",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_03_05_分块矩阵乘法.pdf"
+ },
+ {
+  "file": "LA_04_01_2x2_Determinant_EN.pdf",
+  "ch": "04",
+  "sec": "01",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_04_01_2x2_Determinant_EN.pdf"
+ },
+ {
+  "file": "LA_04_01_2x2行列式.pdf",
+  "ch": "04",
+  "sec": "01",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_04_01_2x2行列式.pdf"
+ },
+ {
+  "file": "LA_04_01_PPT_2x2矩阵行列式_中文.pdf",
+  "ch": "04",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_04_01_PPT_2x2矩阵行列式_中文.pdf"
+ },
+ {
+  "file": "LA_04_01_PPT_The_2x2_Determinant_EN.pdf",
+  "ch": "04",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_04_01_PPT_The_2x2_Determinant_EN.pdf"
+ },
+ {
+  "file": "LA_04_02_3x3_Determinant_EN.pdf",
+  "ch": "04",
+  "sec": "02",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_04_02_3x3_Determinant_EN.pdf"
+ },
+ {
+  "file": "LA_04_02_3x3矩阵行列式.pdf",
+  "ch": "04",
+  "sec": "02",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_04_02_3x3矩阵行列式.pdf"
+ },
+ {
+  "file": "LA_04_02_PPT_3x3矩阵行列式_中文.pdf",
+  "ch": "04",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_04_02_PPT_3x3矩阵行列式_中文.pdf"
+ },
+ {
+  "file": "LA_04_02_PPT_The_3x3_Determinant_EN.pdf",
+  "ch": "04",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_04_02_PPT_The_3x3_Determinant_EN.pdf"
+ },
+ {
+  "file": "LA_04_03_Determinant_Properties_EN.pdf",
+  "ch": "04",
+  "sec": "03",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_04_03_Determinant_Properties_EN.pdf"
+ },
+ {
+  "file": "LA_04_03_PPT_Common_Properties_of_Determinants_EN.pdf",
+  "ch": "04",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_04_03_PPT_Common_Properties_of_Determinants_EN.pdf"
+ },
+ {
+  "file": "LA_04_03_PPT_常见行列式性质_中文.pdf",
+  "ch": "04",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_04_03_PPT_常见行列式性质_中文.pdf"
+ },
+ {
+  "file": "LA_04_03_行列式的性质.pdf",
+  "ch": "04",
+  "sec": "03",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_04_03_行列式的性质.pdf"
+ },
+ {
+  "file": "LA_04_04_Determinant_by_Hand_EN.pdf",
+  "ch": "04",
+  "sec": "04",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_04_04_Determinant_by_Hand_EN.pdf"
+ },
+ {
+  "file": "LA_04_04_PPT_Solving_Determinants_by_Hand_EN.pdf",
+  "ch": "04",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_04_04_PPT_Solving_Determinants_by_Hand_EN.pdf"
+ },
+ {
+  "file": "LA_04_04_PPT_手解行列式_中文.pdf",
+  "ch": "04",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_04_04_PPT_手解行列式_中文.pdf"
+ },
+ {
+  "file": "LA_04_04_手算行列式.pdf",
+  "ch": "04",
+  "sec": "04",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_04_04_手算行列式.pdf"
+ },
+ {
+  "file": "LA_05_01_Inverse_of_a_Matrix_EN.pdf",
+  "ch": "05",
+  "sec": "01",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_05_01_Inverse_of_a_Matrix_EN.pdf"
+ },
+ {
+  "file": "LA_05_01_PPT_The_Inverse_Matrix_EN.pdf",
+  "ch": "05",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_05_01_PPT_The_Inverse_Matrix_EN.pdf"
+ },
+ {
+  "file": "LA_05_01_PPT_逆矩阵_中文.pdf",
+  "ch": "05",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_05_01_PPT_逆矩阵_中文.pdf"
+ },
+ {
+  "file": "LA_05_01_矩阵的逆.pdf",
+  "ch": "05",
+  "sec": "01",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_05_01_矩阵的逆.pdf"
+ },
+ {
+  "file": "LA_05_02_PPT_Properties_of_the_Matrix_Inverse_EN.pdf",
+  "ch": "05",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_05_02_PPT_Properties_of_the_Matrix_Inverse_EN.pdf"
+ },
+ {
+  "file": "LA_05_02_PPT_逆矩阵的性质_中文.pdf",
+  "ch": "05",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_05_02_PPT_逆矩阵的性质_中文.pdf"
+ },
+ {
+  "file": "LA_05_02_Properties_of_Matrix_Inverse_EN.pdf",
+  "ch": "05",
+  "sec": "02",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_05_02_Properties_of_Matrix_Inverse_EN.pdf"
+ },
+ {
+  "file": "LA_05_02_矩阵逆的性质.pdf",
+  "ch": "05",
+  "sec": "02",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_05_02_矩阵逆的性质.pdf"
+ },
+ {
+  "file": "LA_05_03_PPT_Solving_the_Inverse_by_Hand_EN.pdf",
+  "ch": "05",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_05_03_PPT_Solving_the_Inverse_by_Hand_EN.pdf"
+ },
+ {
+  "file": "LA_05_03_PPT_手解逆矩阵_中文.pdf",
+  "ch": "05",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_05_03_PPT_手解逆矩阵_中文.pdf"
+ },
+ {
+  "file": "LA_05_03_Solving_Matrix_Inverse_by_Hand_EN.pdf",
+  "ch": "05",
+  "sec": "03",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_05_03_Solving_Matrix_Inverse_by_Hand_EN.pdf"
+ },
+ {
+  "file": "LA_05_03_手解矩阵逆.pdf",
+  "ch": "05",
+  "sec": "03",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_05_03_手解矩阵逆.pdf"
+ },
+ {
+  "file": "LA_06_01_PPT_Vector_Space_EN.pdf",
+  "ch": "06",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_06_01_PPT_Vector_Space_EN.pdf"
+ },
+ {
+  "file": "LA_06_01_PPT_向量空间_中文.pdf",
+  "ch": "06",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_06_01_PPT_向量空间_中文.pdf"
+ },
+ {
+  "file": "LA_06_01_Vector_Space_EN.pdf",
+  "ch": "06",
+  "sec": "01",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_06_01_Vector_Space_EN.pdf"
+ },
+ {
+  "file": "LA_06_01_向量空间.pdf",
+  "ch": "06",
+  "sec": "01",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_06_01_向量空间.pdf"
+ },
+ {
+  "file": "LA_06_02_Linear_Combination_EN.pdf",
+  "ch": "06",
+  "sec": "02",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_06_02_Linear_Combination_EN.pdf"
+ },
+ {
+  "file": "LA_06_02_PPT_Linear_Combination_EN.pdf",
+  "ch": "06",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_06_02_PPT_Linear_Combination_EN.pdf"
+ },
+ {
+  "file": "LA_06_02_PPT_线性组合_中文.pdf",
+  "ch": "06",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_06_02_PPT_线性组合_中文.pdf"
+ },
+ {
+  "file": "LA_06_02_线性组合.pdf",
+  "ch": "06",
+  "sec": "02",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_06_02_线性组合.pdf"
+ },
+ {
+  "file": "LA_06_03_Basis_EN.pdf",
+  "ch": "06",
+  "sec": "03",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_06_03_Basis_EN.pdf"
+ },
+ {
+  "file": "LA_06_03_PPT_Basis_EN.pdf",
+  "ch": "06",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_06_03_PPT_Basis_EN.pdf"
+ },
+ {
+  "file": "LA_06_03_PPT_基底_中文.pdf",
+  "ch": "06",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_06_03_PPT_基底_中文.pdf"
+ },
+ {
+  "file": "LA_06_03_基底.pdf",
+  "ch": "06",
+  "sec": "03",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_06_03_基底.pdf"
+ },
+ {
+  "file": "LA_07_01_PPT_Linear_Equations_in_Two_Variables_EN.pdf",
+  "ch": "07",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_07_01_PPT_Linear_Equations_in_Two_Variables_EN.pdf"
+ },
+ {
+  "file": "LA_07_01_PPT_二元一次方程组_中文.pdf",
+  "ch": "07",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_07_01_PPT_二元一次方程组_中文.pdf"
+ },
+ {
+  "file": "LA_07_01_System_of_Two_Linear_Equations_EN.pdf",
+  "ch": "07",
+  "sec": "01",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_07_01_System_of_Two_Linear_Equations_EN.pdf"
+ },
+ {
+  "file": "LA_07_01_二元一次方程组.pdf",
+  "ch": "07",
+  "sec": "01",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_07_01_二元一次方程组.pdf"
+ },
+ {
+  "file": "LA_07_02_Linear_Combination_Perspective_EN.pdf",
+  "ch": "07",
+  "sec": "02",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_07_02_Linear_Combination_Perspective_EN.pdf"
+ },
+ {
+  "file": "LA_07_02_PPT_Linear_Combination_Perspective_EN.pdf",
+  "ch": "07",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_07_02_PPT_Linear_Combination_Perspective_EN.pdf"
+ },
+ {
+  "file": "LA_07_02_PPT_线性组合视角_中文.pdf",
+  "ch": "07",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_07_02_PPT_线性组合视角_中文.pdf"
+ },
+ {
+  "file": "LA_07_02_线性组合视角.pdf",
+  "ch": "07",
+  "sec": "02",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_07_02_线性组合视角.pdf"
+ },
+ {
+  "file": "LA_07_03_Elementary_Row_Operations_EN.pdf",
+  "ch": "07",
+  "sec": "03",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_07_03_Elementary_Row_Operations_EN.pdf"
+ },
+ {
+  "file": "LA_07_03_PPT_Elementary_Row_Operations_EN.pdf",
+  "ch": "07",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_07_03_PPT_Elementary_Row_Operations_EN.pdf"
+ },
+ {
+  "file": "LA_07_03_PPT_初等行变换_中文.pdf",
+  "ch": "07",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_07_03_PPT_初等行变换_中文.pdf"
+ },
+ {
+  "file": "LA_07_03_初等行变换.pdf",
+  "ch": "07",
+  "sec": "03",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_07_03_初等行变换.pdf"
+ },
+ {
+  "file": "LA_08_01_Geometric_Transformations_EN.pdf",
+  "ch": "08",
+  "sec": "01",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_08_01_Geometric_Transformations_EN.pdf"
+ },
+ {
+  "file": "LA_08_01_PPT_Geometric_Transformations_and_Matrix_Multiplication_EN.pdf",
+  "ch": "08",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_08_01_PPT_Geometric_Transformations_and_Matrix_Multiplication_EN.pdf"
+ },
+ {
+  "file": "LA_08_01_PPT_几何变换和矩阵乘法_中文.pdf",
+  "ch": "08",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_08_01_PPT_几何变换和矩阵乘法_中文.pdf"
+ },
+ {
+  "file": "LA_08_01_几何变换.pdf",
+  "ch": "08",
+  "sec": "01",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_08_01_几何变换.pdf"
+ },
+ {
+  "file": "LA_08_02_PPT_Scaling_EN.pdf",
+  "ch": "08",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_08_02_PPT_Scaling_EN.pdf"
+ },
+ {
+  "file": "LA_08_02_PPT_缩放_中文.pdf",
+  "ch": "08",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_08_02_PPT_缩放_中文.pdf"
+ },
+ {
+  "file": "LA_08_02_Scaling_EN.pdf",
+  "ch": "08",
+  "sec": "02",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_08_02_Scaling_EN.pdf"
+ },
+ {
+  "file": "LA_08_02_缩放.pdf",
+  "ch": "08",
+  "sec": "02",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_08_02_缩放.pdf"
+ },
+ {
+  "file": "LA_08_03_PPT_Rotation_EN.pdf",
+  "ch": "08",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_08_03_PPT_Rotation_EN.pdf"
+ },
+ {
+  "file": "LA_08_03_PPT_旋转_中文.pdf",
+  "ch": "08",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_08_03_PPT_旋转_中文.pdf"
+ },
+ {
+  "file": "LA_08_03_Rotation_EN.pdf",
+  "ch": "08",
+  "sec": "03",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_08_03_Rotation_EN.pdf"
+ },
+ {
+  "file": "LA_08_03_旋转.pdf",
+  "ch": "08",
+  "sec": "03",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_08_03_旋转.pdf"
+ },
+ {
+  "file": "LA_08_04_PPT_Shearing_EN.pdf",
+  "ch": "08",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_08_04_PPT_Shearing_EN.pdf"
+ },
+ {
+  "file": "LA_08_04_PPT_剪切_中文.pdf",
+  "ch": "08",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_08_04_PPT_剪切_中文.pdf"
+ },
+ {
+  "file": "LA_08_04_Shear_EN.pdf",
+  "ch": "08",
+  "sec": "04",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_08_04_Shear_EN.pdf"
+ },
+ {
+  "file": "LA_08_04_剪切.pdf",
+  "ch": "08",
+  "sec": "04",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_08_04_剪切.pdf"
+ },
+ {
+  "file": "LA_08_05_Orthogonal_Projection_EN.pdf",
+  "ch": "08",
+  "sec": "05",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_08_05_Orthogonal_Projection_EN.pdf"
+ },
+ {
+  "file": "LA_08_05_PPT_Orthogonal_Projection_EN.pdf",
+  "ch": "08",
+  "sec": "05",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_08_05_PPT_Orthogonal_Projection_EN.pdf"
+ },
+ {
+  "file": "LA_08_05_PPT_正交投影_中文.pdf",
+  "ch": "08",
+  "sec": "05",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_08_05_PPT_正交投影_中文.pdf"
+ },
+ {
+  "file": "LA_08_05_正交投影.pdf",
+  "ch": "08",
+  "sec": "05",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_08_05_正交投影.pdf"
+ },
+ {
+  "file": "LA_08_06_PPT_Reflection_EN.pdf",
+  "ch": "08",
+  "sec": "06",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_08_06_PPT_Reflection_EN.pdf"
+ },
+ {
+  "file": "LA_08_06_PPT_镜像_中文.pdf",
+  "ch": "08",
+  "sec": "06",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_08_06_PPT_镜像_中文.pdf"
+ },
+ {
+  "file": "LA_08_06_Reflection_EN.pdf",
+  "ch": "08",
+  "sec": "06",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_08_06_Reflection_EN.pdf"
+ },
+ {
+  "file": "LA_08_06_镜像.pdf",
+  "ch": "08",
+  "sec": "06",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_08_06_镜像.pdf"
+ },
+ {
+  "file": "LA_08_07_Affine_Transformation_EN.pdf",
+  "ch": "08",
+  "sec": "07",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_08_07_Affine_Transformation_EN.pdf"
+ },
+ {
+  "file": "LA_08_07_PPT_Affine_Transformation_EN.pdf",
+  "ch": "08",
+  "sec": "07",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_08_07_PPT_Affine_Transformation_EN.pdf"
+ },
+ {
+  "file": "LA_08_07_PPT_仿射变换_中文.pdf",
+  "ch": "08",
+  "sec": "07",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_08_07_PPT_仿射变换_中文.pdf"
+ },
+ {
+  "file": "LA_08_07_仿射变换.pdf",
+  "ch": "08",
+  "sec": "07",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_08_07_仿射变换.pdf"
+ },
+ {
+  "file": "LA_09_01_2x2正交矩阵.pdf",
+  "ch": "09",
+  "sec": "01",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_09_01_2x2正交矩阵.pdf"
+ },
+ {
+  "file": "LA_09_01_Orthogonal_Matrices_2x2_EN.pdf",
+  "ch": "09",
+  "sec": "01",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_09_01_Orthogonal_Matrices_2x2_EN.pdf"
+ },
+ {
+  "file": "LA_09_01_PPT_Orthogonal_Matrices_EN.pdf",
+  "ch": "09",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_09_01_PPT_Orthogonal_Matrices_EN.pdf"
+ },
+ {
+  "file": "LA_09_01_PPT_正交_中文.pdf",
+  "ch": "09",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_09_01_PPT_正交_中文.pdf"
+ },
+ {
+  "file": "LA_09_02_3x3正交矩阵.pdf",
+  "ch": "09",
+  "sec": "02",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_09_02_3x3正交矩阵.pdf"
+ },
+ {
+  "file": "LA_09_02_Orthogonal_Matrices_3x3_EN.pdf",
+  "ch": "09",
+  "sec": "02",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_09_02_Orthogonal_Matrices_3x3_EN.pdf"
+ },
+ {
+  "file": "LA_09_02_PPT_3x3_Orthogonal_Matrices_EN.pdf",
+  "ch": "09",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_09_02_PPT_3x3_Orthogonal_Matrices_EN.pdf"
+ },
+ {
+  "file": "LA_09_02_PPT_3x3正交矩阵_中文.pdf",
+  "ch": "09",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_09_02_PPT_3x3正交矩阵_中文.pdf"
+ },
+ {
+  "file": "LA_09_03_PPT_Properties_of_Orthogonal_Matrices_EN.pdf",
+  "ch": "09",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_09_03_PPT_Properties_of_Orthogonal_Matrices_EN.pdf"
+ },
+ {
+  "file": "LA_09_03_PPT_正交矩阵性质_中文.pdf",
+  "ch": "09",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_09_03_PPT_正交矩阵性质_中文.pdf"
+ },
+ {
+  "file": "LA_09_03_Properties_of_Orthogonal_Matrices_EN.pdf",
+  "ch": "09",
+  "sec": "03",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_09_03_Properties_of_Orthogonal_Matrices_EN.pdf"
+ },
+ {
+  "file": "LA_09_03_正交矩阵性质.pdf",
+  "ch": "09",
+  "sec": "03",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_09_03_正交矩阵性质.pdf"
+ },
+ {
+  "file": "LA_09_04_Gram_Schmidt_Orthogonalization_EN.pdf",
+  "ch": "09",
+  "sec": "04",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_09_04_Gram_Schmidt_Orthogonalization_EN.pdf"
+ },
+ {
+  "file": "LA_09_04_PPT_Gram-Schmidt_Orthogonalization_EN.pdf",
+  "ch": "09",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_09_04_PPT_Gram-Schmidt_Orthogonalization_EN.pdf"
+ },
+ {
+  "file": "LA_09_04_PPT_格拉姆-施密特正交化_中文.pdf",
+  "ch": "09",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_09_04_PPT_格拉姆-施密特正交化_中文.pdf"
+ },
+ {
+  "file": "LA_09_04_施密特正交化.pdf",
+  "ch": "09",
+  "sec": "04",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_09_04_施密特正交化.pdf"
+ },
+ {
+  "file": "LA_09_05_PPT_QR_Decomposition_EN.pdf",
+  "ch": "09",
+  "sec": "05",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_09_05_PPT_QR_Decomposition_EN.pdf"
+ },
+ {
+  "file": "LA_09_05_PPT_QR分解_中文.pdf",
+  "ch": "09",
+  "sec": "05",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_09_05_PPT_QR分解_中文.pdf"
+ },
+ {
+  "file": "LA_09_05_QR_Decomposition_EN.pdf",
+  "ch": "09",
+  "sec": "05",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_09_05_QR_Decomposition_EN.pdf"
+ },
+ {
+  "file": "LA_09_05_QR分解.pdf",
+  "ch": "09",
+  "sec": "05",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_09_05_QR分解.pdf"
+ },
+ {
+  "file": "LA_10_01_From_Projection_to_Regression_EN.pdf",
+  "ch": "10",
+  "sec": "01",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_10_01_From_Projection_to_Regression_EN.pdf"
+ },
+ {
+  "file": "LA_10_01_PPT_Linear_Regression_EN.pdf",
+  "ch": "10",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_10_01_PPT_Linear_Regression_EN.pdf"
+ },
+ {
+  "file": "LA_10_01_PPT_线性回归_中文.pdf",
+  "ch": "10",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_10_01_PPT_线性回归_中文.pdf"
+ },
+ {
+  "file": "LA_10_01_线性回归.pdf",
+  "ch": "10",
+  "sec": "01",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_10_01_线性回归.pdf"
+ },
+ {
+  "file": "LA_10_02_Multivariate_Regression_EN.pdf",
+  "ch": "10",
+  "sec": "02",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_10_02_Multivariate_Regression_EN.pdf"
+ },
+ {
+  "file": "LA_10_02_PPT_Multiple_Regression_EN.pdf",
+  "ch": "10",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_10_02_PPT_Multiple_Regression_EN.pdf"
+ },
+ {
+  "file": "LA_10_02_PPT_多元回归_中文.pdf",
+  "ch": "10",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_10_02_PPT_多元回归_中文.pdf"
+ },
+ {
+  "file": "LA_10_02_多元线性回归.pdf",
+  "ch": "10",
+  "sec": "02",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_10_02_多元线性回归.pdf"
+ },
+ {
+  "file": "LA_10_03_PPT_Polynomial_Regression_EN.pdf",
+  "ch": "10",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_10_03_PPT_Polynomial_Regression_EN.pdf"
+ },
+ {
+  "file": "LA_10_03_PPT_多项式回归_中文.pdf",
+  "ch": "10",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_10_03_PPT_多项式回归_中文.pdf"
+ },
+ {
+  "file": "LA_10_03_Polynomial_Regression_EN.pdf",
+  "ch": "10",
+  "sec": "03",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_10_03_Polynomial_Regression_EN.pdf"
+ },
+ {
+  "file": "LA_10_03_多项式回归.pdf",
+  "ch": "10",
+  "sec": "03",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_10_03_多项式回归.pdf"
+ },
+ {
+  "file": "LA_11_01_Eigenvalue_Decomposition_EN.pdf",
+  "ch": "11",
+  "sec": "01",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_11_01_Eigenvalue_Decomposition_EN.pdf"
+ },
+ {
+  "file": "LA_11_01_PPT_Eigenvalue_Decomposition_EN.pdf",
+  "ch": "11",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_11_01_PPT_Eigenvalue_Decomposition_EN.pdf"
+ },
+ {
+  "file": "LA_11_01_PPT_特征值分解_中文.pdf",
+  "ch": "11",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_11_01_PPT_特征值分解_中文.pdf"
+ },
+ {
+  "file": "LA_11_01_特征值分解.pdf",
+  "ch": "11",
+  "sec": "01",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_11_01_特征值分解.pdf"
+ },
+ {
+  "file": "LA_11_02_PPT_Spectral_Decomposition_EN.pdf",
+  "ch": "11",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_11_02_PPT_Spectral_Decomposition_EN.pdf"
+ },
+ {
+  "file": "LA_11_02_PPT_谱分解_中文.pdf",
+  "ch": "11",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_11_02_PPT_谱分解_中文.pdf"
+ },
+ {
+  "file": "LA_11_02_Spectral_Decomposition_EN.pdf",
+  "ch": "11",
+  "sec": "02",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_11_02_Spectral_Decomposition_EN.pdf"
+ },
+ {
+  "file": "LA_11_02_谱分解.pdf",
+  "ch": "11",
+  "sec": "02",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_11_02_谱分解.pdf"
+ },
+ {
+  "file": "LA_11_03_EVD_Nonsymmetric_EN.pdf",
+  "ch": "11",
+  "sec": "03",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_11_03_EVD_Nonsymmetric_EN.pdf"
+ },
+ {
+  "file": "LA_11_03_PPT_Asymmetric_Matrix_EVD_EN.pdf",
+  "ch": "11",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_11_03_PPT_Asymmetric_Matrix_EVD_EN.pdf"
+ },
+ {
+  "file": "LA_11_03_PPT_非对称方阵EVD_中文.pdf",
+  "ch": "11",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_11_03_PPT_非对称方阵EVD_中文.pdf"
+ },
+ {
+  "file": "LA_11_03_非对称方阵的EVD.pdf",
+  "ch": "11",
+  "sec": "03",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_11_03_非对称方阵的EVD.pdf"
+ },
+ {
+  "file": "LA_11_04_Gram_Matrix_EN.pdf",
+  "ch": "11",
+  "sec": "04",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_11_04_Gram_Matrix_EN.pdf"
+ },
+ {
+  "file": "LA_11_04_PPT_Gram_Matrix_EN.pdf",
+  "ch": "11",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_11_04_PPT_Gram_Matrix_EN.pdf"
+ },
+ {
+  "file": "LA_11_04_PPT_格拉姆矩阵_中文.pdf",
+  "ch": "11",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_11_04_PPT_格拉姆矩阵_中文.pdf"
+ },
+ {
+  "file": "LA_11_04_格拉姆矩阵.pdf",
+  "ch": "11",
+  "sec": "04",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_11_04_格拉姆矩阵.pdf"
+ },
+ {
+  "file": "LA_12_01_Data_Matrix_EN.pdf",
+  "ch": "12",
+  "sec": "01",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_12_01_Data_Matrix_EN.pdf"
+ },
+ {
+  "file": "LA_12_01_数据矩阵.pdf",
+  "ch": "12",
+  "sec": "01",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_12_01_数据矩阵.pdf"
+ },
+ {
+  "file": "LA_12_02_PCA_Ellipse_EN.pdf",
+  "ch": "12",
+  "sec": "02",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_12_02_PCA_Ellipse_EN.pdf"
+ },
+ {
+  "file": "LA_12_02_椭圆视角看主成分分析.pdf",
+  "ch": "12",
+  "sec": "02",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_12_02_椭圆视角看主成分分析.pdf"
+ },
+ {
+  "file": "LA_12_03_Revisiting_PCA_EN.pdf",
+  "ch": "12",
+  "sec": "03",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_12_03_Revisiting_PCA_EN.pdf"
+ },
+ {
+  "file": "LA_12_03_主成分分析.pdf",
+  "ch": "12",
+  "sec": "03",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_12_03_主成分分析.pdf"
+ },
+ {
+  "file": "LA_13_01_Positive_Definiteness_EN.pdf",
+  "ch": "13",
+  "sec": "01",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_13_01_Positive_Definiteness_EN.pdf"
+ },
+ {
+  "file": "LA_13_01_二次型.pdf",
+  "ch": "13",
+  "sec": "01",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_13_01_二次型.pdf"
+ },
+ {
+  "file": "LA_13_02_Cholesky_Decomposition_EN.pdf",
+  "ch": "13",
+  "sec": "02",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_13_02_Cholesky_Decomposition_EN.pdf"
+ },
+ {
+  "file": "LA_13_02_Cholesky分解.pdf",
+  "ch": "13",
+  "sec": "02",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_13_02_Cholesky分解.pdf"
+ },
+ {
+  "file": "LA_13_03_Rayleigh_Quotient_EN.pdf",
+  "ch": "13",
+  "sec": "03",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_13_03_Rayleigh_Quotient_EN.pdf"
+ },
+ {
+  "file": "LA_13_03_瑞利商.pdf",
+  "ch": "13",
+  "sec": "03",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_13_03_瑞利商.pdf"
+ },
+ {
+  "file": "LA_13_04_Distance_Metrics_EN.pdf",
+  "ch": "13",
+  "sec": "04",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_13_04_Distance_Metrics_EN.pdf"
+ },
+ {
+  "file": "LA_13_04_距离度量.pdf",
+  "ch": "13",
+  "sec": "04",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_13_04_距离度量.pdf"
+ },
+ {
+  "file": "LA_14_01_PPT_Singular_Value_Decomposition_EN.pdf",
+  "ch": "14",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_14_01_PPT_Singular_Value_Decomposition_EN.pdf"
+ },
+ {
+  "file": "LA_14_01_PPT_奇异值分解_中文.pdf",
+  "ch": "14",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_14_01_PPT_奇异值分解_中文.pdf"
+ },
+ {
+  "file": "LA_14_01_SVD_EN.pdf",
+  "ch": "14",
+  "sec": "01",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_14_01_SVD_EN.pdf"
+ },
+ {
+  "file": "LA_14_01_奇异值分解.pdf",
+  "ch": "14",
+  "sec": "01",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_14_01_奇异值分解.pdf"
+ },
+ {
+  "file": "LA_14_02_PPT_Geometric_View_of_SVD_EN.pdf",
+  "ch": "14",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_14_02_PPT_Geometric_View_of_SVD_EN.pdf"
+ },
+ {
+  "file": "LA_14_02_PPT_几何视角看SVD_中文.pdf",
+  "ch": "14",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_14_02_PPT_几何视角看SVD_中文.pdf"
+ },
+ {
+  "file": "LA_14_02_SVD_Geometric_View_EN.pdf",
+  "ch": "14",
+  "sec": "02",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_14_02_SVD_Geometric_View_EN.pdf"
+ },
+ {
+  "file": "LA_14_02_几何角度看SVD.pdf",
+  "ch": "14",
+  "sec": "02",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_14_02_几何角度看SVD.pdf"
+ },
+ {
+  "file": "LA_14_03_Four_Types_of_SVD_EN.pdf",
+  "ch": "14",
+  "sec": "03",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_14_03_Four_Types_of_SVD_EN.pdf"
+ },
+ {
+  "file": "LA_14_03_PPT_Four_Flavors_of_SVD_EN.pdf",
+  "ch": "14",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_14_03_PPT_Four_Flavors_of_SVD_EN.pdf"
+ },
+ {
+  "file": "LA_14_03_PPT_四种奇异值分解_中文.pdf",
+  "ch": "14",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_14_03_PPT_四种奇异值分解_中文.pdf"
+ },
+ {
+  "file": "LA_14_03_四种奇异值分解.pdf",
+  "ch": "14",
+  "sec": "03",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_14_03_四种奇异值分解.pdf"
+ },
+ {
+  "file": "LA_14_04_PPT_Truncated_SVD_EN.pdf",
+  "ch": "14",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_14_04_PPT_Truncated_SVD_EN.pdf"
+ },
+ {
+  "file": "LA_14_04_PPT_截断型奇异值分解_中文.pdf",
+  "ch": "14",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_14_04_PPT_截断型奇异值分解_中文.pdf"
+ },
+ {
+  "file": "LA_14_04_Truncated_SVD_EN.pdf",
+  "ch": "14",
+  "sec": "04",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_14_04_Truncated_SVD_EN.pdf"
+ },
+ {
+  "file": "LA_14_04_截断SVD.pdf",
+  "ch": "14",
+  "sec": "04",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_14_04_截断SVD.pdf"
+ },
+ {
+  "file": "LA_15_01_PPT_Undirected_Graphs_EN.pdf",
+  "ch": "15",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_15_01_PPT_Undirected_Graphs_EN.pdf"
+ },
+ {
+  "file": "LA_15_01_PPT_无向图_中文.pdf",
+  "ch": "15",
+  "sec": "01",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_15_01_PPT_无向图_中文.pdf"
+ },
+ {
+  "file": "LA_15_01_Undirected_Graph_EN.pdf",
+  "ch": "15",
+  "sec": "01",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_15_01_Undirected_Graph_EN.pdf"
+ },
+ {
+  "file": "LA_15_01_无向图.pdf",
+  "ch": "15",
+  "sec": "01",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_15_01_无向图.pdf"
+ },
+ {
+  "file": "LA_15_02_Directed_Graph_EN.pdf",
+  "ch": "15",
+  "sec": "02",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_15_02_Directed_Graph_EN.pdf"
+ },
+ {
+  "file": "LA_15_02_PPT_Directed_Graphs_EN.pdf",
+  "ch": "15",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_15_02_PPT_Directed_Graphs_EN.pdf"
+ },
+ {
+  "file": "LA_15_02_PPT_有向图_中文.pdf",
+  "ch": "15",
+  "sec": "02",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_15_02_PPT_有向图_中文.pdf"
+ },
+ {
+  "file": "LA_15_02_有向图.pdf",
+  "ch": "15",
+  "sec": "02",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_15_02_有向图.pdf"
+ },
+ {
+  "file": "LA_15_03_PPT_Transition_Matrix_EN.pdf",
+  "ch": "15",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_15_03_PPT_Transition_Matrix_EN.pdf"
+ },
+ {
+  "file": "LA_15_03_PPT_转移矩阵_中文.pdf",
+  "ch": "15",
+  "sec": "03",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_15_03_PPT_转移矩阵_中文.pdf"
+ },
+ {
+  "file": "LA_15_03_Transition_Matrix_EN.pdf",
+  "ch": "15",
+  "sec": "03",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_15_03_Transition_Matrix_EN.pdf"
+ },
+ {
+  "file": "LA_15_03_转移矩阵.pdf",
+  "ch": "15",
+  "sec": "03",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_15_03_转移矩阵.pdf"
+ },
+ {
+  "file": "LA_15_04_Laplacian_Matrix_and_Spectral_Clustering_EN.pdf",
+  "ch": "15",
+  "sec": "04",
+  "kind": "body",
+  "lang": "en",
+  "name": "LA_15_04_Laplacian_Matrix_and_Spectral_Clustering_EN.pdf"
+ },
+ {
+  "file": "LA_15_04_PPT_Laplacian_Matrix_Spectral_Clustering_EN.pdf",
+  "ch": "15",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "en",
+  "name": "LA_15_04_PPT_Laplacian_Matrix_Spectral_Clustering_EN.pdf"
+ },
+ {
+  "file": "LA_15_04_PPT_拉普拉斯矩阵和谱聚类_中文.pdf",
+  "ch": "15",
+  "sec": "04",
+  "kind": "ppt",
+  "lang": "zh",
+  "name": "LA_15_04_PPT_拉普拉斯矩阵和谱聚类_中文.pdf"
+ },
+ {
+  "file": "LA_15_04_拉普拉斯矩阵.pdf",
+  "ch": "15",
+  "sec": "04",
+  "kind": "body",
+  "lang": "zh",
+  "name": "LA_15_04_拉普拉斯矩阵.pdf"
+ },
+ {
+  "file": "鸢尾花书_整体布局.pdf",
+  "kind": "OTHER"
+ }
+]

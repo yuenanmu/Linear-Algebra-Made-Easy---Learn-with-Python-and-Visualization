@@ -1,0 +1,356 @@
+==============================================================================
+第 1 章  (章节ID 01)
+  [01-01] 中: 什么是向量
+           英: What_Is_a_Vector_EN
+           PPT中/英: 什么是向量_中文 | What_Is_A_Vector_EN
+           NB LA_01_01_01.ipynb : 一维数组
+           NB LA_01_01_02.ipynb : 二维数组创建向量
+  [01-02] 中: 坐标系
+           英: Coordinate_Systems_EN
+           PPT中/英: 坐标系_中文 | Coordinate_Systems_EN
+           NB LA_01_02_01.ipynb : 使用numpy.meshgrid() 创建二维网格数组
+           NB LA_01_02_02.ipynb : 使用numpy.meshgrid() 创建三维网格数组
+           NB LA_01_02_03.ipynb : 计算向量大小
+  [01-03] 中: 向量加减法
+           英: Vector_Addition_and_Subtraction_EN
+           PPT中/英: 向量加减法_中文 | Vector_Addition_and_Subtraction_EN
+           NB LA_01_03_01.ipynb : 向量加法
+           NB LA_01_03_02.ipynb : 平行四边形法则
+           NB LA_01_03_03.ipynb : 三角形法则
+  [01-04] 中: 向量标量乘法
+           英: Vector_Scalar_Multiplication_EN
+           PPT中/英: 向量标量乘法_中文 | Vector_Scalar_Multiplication_EN
+           NB LA_01_04_01.ipynb : 标量乘法
+           NB LA_01_04_02.ipynb : 可视化标量乘法
+  [01-05] 中: 单位向量
+           英: Unit_Vector_EN
+           PPT中/英: 单位向量_中文 | Unit_Vector_EN
+           NB LA_01_05_01.ipynb : 单位向量
+           NB LA_01_05_02.ipynb : 极坐标、平面直角坐标
+           NB LA_01_05_03.ipynb : 直角坐标系画单位圆
+           NB LA_01_05_04.ipynb : 极坐标坐标系画同心圆
+           NB LA_01_05_05.ipynb : 球坐标、三维直角坐标
+           NB LA_01_05_06.ipynb : 可视化正球体
+  [01-06] 中: 向量内积
+           英: Vector_Inner_Product_EN
+           PPT中/英: 向量内积_中文 | Vector_Inner_Product_EN
+           NB LA_01_06_01.ipynb : 向量内积
+           NB LA_01_06_02.ipynb : 向量夹角
+  [01-07] 中: 投影
+           英: Projection_EN
+           PPT中/英: 投影_中文 | Projection_EN
+           NB LA_01_07_01.ipynb : 标量投影
+           NB LA_01_07_02.ipynb : 向量投影
+           NB LA_01_07_03.ipynb : 向量正交分解
+  [01-08] 中: 向量范数
+           英: Vector_Norm_EN
+           PPT中/英: 向量范数_中文 | Vector_Norm_EN
+           NB LA_01_08_01.ipynb : L1范数
+           NB LA_01_08_02.ipynb : L1范数等距线
+           NB LA_01_08_03.ipynb : L2范数
+           NB LA_01_08_04.ipynb : L2范数等距线
+           NB LA_01_08_05.ipynb : $L^{\infty}$ 范数
+
+==============================================================================
+第 2 章  (章节ID 02)
+  [02-01] 中: 矩阵
+           英: Matrix_EN
+           PPT中/英: 矩阵_中文 | Matrix_EN
+           NB LA_02_01_01.ipynb : 矩阵的索引切片
+           NB LA_02_01_02.ipynb : 矩阵加减、数乘
+  [02-02] 中: 矩阵转置
+           英: Matrix_Transpose_EN
+           PPT中/英: 矩阵转置_中文 | Transpose_EN
+           NB LA_02_02_01.ipynb : 矩阵转置
+           NB LA_02_02_02.ipynb : 不同形状的矩阵转置
+  [02-03] 中: 矩阵的形状
+           英: Matrix_Shape_EN
+           PPT中/英: 矩阵的形状_中文 | Shape_of_Matrix_EN
+           NB 无
+  [02-04] 中: 矩阵乘法
+           英: Matrix_Multiplication_EN
+           PPT中/英: 矩阵乘法_中文 | Matrix_Multiplication_EN
+           NB LA_02_04_01.ipynb : 热图可视化矩阵乘法
+           NB LA_02_04_02.ipynb : 计算矩阵乘法的每个元素
+           NB LA_02_04_03.ipynb : 自定义函数计算矩阵乘法
+  [02-05] 中: 矩阵乘法几何视角
+           英: Geometric_Perspective_EN
+           PPT中/英: 矩阵乘法的几何视角_中文 | Geometric_View_of_Matrix_Multiplication_EN
+           NB 无
+  [02-06] 中: 矩阵乘法性质
+           英: Matrix_Multiplication_Properties_EN
+           PPT中/英: 矩阵乘法性质_中文 | Properties_of_Matrix_Multiplication_EN
+           NB 无
+
+==============================================================================
+第 3 章  (章节ID 03)
+  [03-01] 中: 矩阵乘法第一视角
+           英: Matrix_Multiplication_First_Perspective_EN
+           PPT中/英: 矩阵乘法第一视角_中文 | First_View_of_Matrix_Multiplication_EN
+           NB LA_03_01_01.ipynb : 矩阵乘法第一视角
+           NB LA_03_01_02.ipynb : Python自定义函数计算矩阵乘法，内积视角
+  [03-02] 中: 矩阵乘法第二视角
+           英: Matrix_Multiplication_Second_Perspective_EN
+           PPT中/英: 矩阵乘法的第二视角_中文 | Second_View_of_Matrix_Multiplication_EN
+           NB LA_03_02_01.ipynb : 矩阵乘法第二视角
+           NB LA_03_02_02.ipynb : 用热图可视化矩阵乘法第二视角
+           NB LA_03_02_03.ipynb : Python自定义函数计算矩阵乘法，外积视角
+  [03-03] 中: 矩阵乘法第三视角
+           英: Matrix_Multiplication_Third_Perspective_EN
+           PPT中/英: 矩阵乘法的第三视角_中文 | Third_View_of_Matrix_Multiplication_EN
+           NB LA_03_03_01.ipynb : 矩阵乘法第三视角
+           NB LA_03_03_02.ipynb : 用热图可视化矩阵乘法第三视角
+           NB LA_03_03_03.ipynb : Python自定义函数计算矩阵乘法，列向量线性组合视角
+  [03-04] 中: 矩阵乘法第四视角
+           英: Matrix_Multiplication_Fourth_Perspective_EN
+           PPT中/英: 矩阵乘法的第四视角_中文 | Fourth_View_of_Matrix_Multiplication_EN
+           NB LA_03_04_01.ipynb : 矩阵乘法第四视角
+           NB LA_03_04_02.ipynb : 用热图可视化矩阵乘法第四视角
+           NB LA_03_04_03.ipynb : Python自定义函数计算矩阵乘法，行向量线性组合视角
+  [03-05] 中: 分块矩阵乘法
+           英: Block_Matrix_Multiplication_EN
+           PPT中/英: 分块矩阵乘法_中文 | Block_Matrix_Multiplication_EN
+           NB 无
+
+==============================================================================
+第 4 章  (章节ID 04)
+  [04-01] 中: 2x2行列式
+           英: 2x2_Determinant_EN
+           PPT中/英: 2x2矩阵行列式_中文 | The_2x2_Determinant_EN
+           NB LA_04_01_01.ipynb : 2 x 2方阵行列式对应平行四边形面积
+  [04-02] 中: 3x3矩阵行列式
+           英: 3x3_Determinant_EN
+           PPT中/英: 3x3矩阵行列式_中文 | The_3x3_Determinant_EN
+           NB LA_04_02_01.ipynb : 3 x 3方阵行列式对应平行六面体体积
+  [04-03] 中: 行列式的性质
+           英: Determinant_Properties_EN
+           PPT中/英: 常见行列式性质_中文 | Common_Properties_of_Determinants_EN
+           NB 无
+  [04-04] 中: 手算行列式
+           英: Determinant_by_Hand_EN
+           PPT中/英: 手解行列式_中文 | Solving_Determinants_by_Hand_EN
+           NB LA_04_04_01.ipynb : 伴随矩阵法求解逆矩阵
+
+==============================================================================
+第 5 章  (章节ID 05)
+  [05-01] 中: 矩阵的逆
+           英: Inverse_of_a_Matrix_EN
+           PPT中/英: 逆矩阵_中文 | The_Inverse_Matrix_EN
+           NB LA_05_01_01.ipynb : 2 x 2矩阵求逆
+           NB LA_05_01_02.ipynb : NumPy计算逆矩阵
+           NB LA_05_01_03.ipynb : SymPy计算逆矩阵
+  [05-02] 中: 矩阵逆的性质
+           英: Properties_of_Matrix_Inverse_EN
+           PPT中/英: 逆矩阵的性质_中文 | Properties_of_the_Matrix_Inverse_EN
+           NB 无
+  [05-03] 中: 手解矩阵逆
+           英: Solving_Matrix_Inverse_by_Hand_EN
+           PPT中/英: 手解逆矩阵_中文 | Solving_the_Inverse_by_Hand_EN
+           NB LA_05_03_01.ipynb : 伴随矩阵法求解逆矩阵
+
+==============================================================================
+第 6 章  (章节ID 06)
+  [06-01] 中: 向量空间
+           英: Vector_Space_EN
+           PPT中/英: 向量空间_中文 | Vector_Space_EN
+           NB LA_06_01_01.ipynb : 秩
+  [06-02] 中: 线性组合
+           英: Linear_Combination_EN
+           PPT中/英: 线性组合_中文 | Linear_Combination_EN
+           NB 无
+  [06-03] 中: 基底
+           英: Basis_EN
+           PPT中/英: 基底_中文 | Basis_EN
+           NB LA_06_03_01.ipynb : 计算坐标
+           NB LA_06_03_02.ipynb : 绘制规范正交基网格
+           NB LA_06_03_03.ipynb : 基底转换
+
+==============================================================================
+第 7 章  (章节ID 07)
+  [07-01] 中: 二元一次方程组
+           英: System_of_Two_Linear_Equations_EN
+           PPT中/英: 二元一次方程组_中文 | Linear_Equations_in_Two_Variables_EN
+           NB LA_07_01_01.ipynb : 鸡兔同笼-矩阵乘法
+           NB LA_07_01_02.ipynb : 鸡兔同笼-用numpy.linalg.solve()求解
+           NB LA_07_01_03.ipynb : 鸡兔同笼-用SymPy求解
+           NB LA_07_01_04.ipynb : 可视化线性方程组
+  [07-02] 中: 线性组合视角
+           英: Linear_Combination_Perspective_EN
+           PPT中/英: 线性组合视角_中文 | Linear_Combination_Perspective_EN
+           NB 无
+  [07-03] 中: 初等行变换
+           英: Elementary_Row_Operations_EN
+           PPT中/英: 初等行变换_中文 | Elementary_Row_Operations_EN
+           NB LA_07_03_01.ipynb : 初等行变换求解线性方程组
+           NB LA_07_03_02.ipynb : 初等行变换求逆矩阵
+
+==============================================================================
+第 8 章  (章节ID 08)
+  [08-01] 中: 几何变换
+           英: Geometric_Transformations_EN
+           PPT中/英: 几何变换和矩阵乘法_中文 | Geometric_Transformations_and_Matrix_Multiplication_EN
+           NB LA_08_01_01.ipynb : 线性变换
+  [08-02] 中: 缩放
+           英: Scaling_EN
+           PPT中/英: 缩放_中文 | Scaling_EN
+           NB LA_08_02_01.ipynb : 平面缩放
+  [08-03] 中: 旋转
+           英: Rotation_EN
+           PPT中/英: 旋转_中文 | Rotation_EN
+           NB LA_08_03_01.ipynb : 三维绕轴旋转
+  [08-04] 中: 剪切
+           英: Shear_EN
+           PPT中/英: 剪切_中文 | Shearing_EN
+           NB 无
+  [08-05] 中: 正交投影
+           英: Orthogonal_Projection_EN
+           PPT中/英: 正交投影_中文 | Orthogonal_Projection_EN
+           NB 无
+  [08-06] 中: 镜像
+           英: Reflection_EN
+           PPT中/英: 镜像_中文 | Reflection_EN
+           NB 无
+  [08-07] 中: 仿射变换
+           英: Affine_Transformation_EN
+           PPT中/英: 仿射变换_中文 | Affine_Transformation_EN
+           NB 无
+
+==============================================================================
+第 9 章  (章节ID 09)
+  [09-01] 中: 2x2正交矩阵
+           英: Orthogonal_Matrices_2x2_EN
+           PPT中/英: 正交_中文 | Orthogonal_Matrices_EN
+           NB 无
+  [09-02] 中: 3x3正交矩阵
+           英: Orthogonal_Matrices_3x3_EN
+           PPT中/英: 3x3正交矩阵_中文 | 3x3_Orthogonal_Matrices_EN
+           NB 无
+  [09-03] 中: 正交矩阵性质
+           英: Properties_of_Orthogonal_Matrices_EN
+           PPT中/英: 正交矩阵性质_中文 | Properties_of_Orthogonal_Matrices_EN
+           NB 无
+  [09-04] 中: 施密特正交化
+           英: Gram_Schmidt_Orthogonalization_EN
+           PPT中/英: 格拉姆-施密特正交化_中文 | Gram-Schmidt_Orthogonalization_EN
+           NB LA_09_04_01.ipynb : 施密特正交化
+           NB LA_09_04_02.ipynb : 施密特正交化，自定义函数
+  [09-05] 中: QR分解
+           英: QR_Decomposition_EN
+           PPT中/英: QR分解_中文 | QR_Decomposition_EN
+           NB LA_09_05_01.ipynb : 完全型QR分解
+           NB LA_09_05_02.ipynb : 经济型QR分解
+
+==============================================================================
+第 10 章  (章节ID 10)
+  [10-01] 中: 线性回归
+           英: From_Projection_to_Regression_EN
+           PPT中/英: 线性回归_中文 | Linear_Regression_EN
+           NB LA_10_01_01.ipynb : 一元线性回归
+           NB LA_10_01_02.ipynb : 使用scikit-learn完成一元线性回归
+           NB LA_10_01_03.ipynb : 截距为0的一元线性回归模型
+  [10-02] 中: 多元线性回归
+           英: Multivariate_Regression_EN
+           PPT中/英: 多元回归_中文 | Multiple_Regression_EN
+           NB LA_10_02_01.ipynb : 二元线性回归
+           NB LA_10_02_02.ipynb : 使用scikit-learn完成二元线性回归
+  [10-03] 中: 多项式回归
+           英: Polynomial_Regression_EN
+           PPT中/英: 多项式回归_中文 | Polynomial_Regression_EN
+           NB LA_10_03_01.ipynb : 一元多项式回归
+           NB LA_10_03_02.ipynb : 使用scikit-learn完成一元多项式回归
+
+==============================================================================
+第 11 章  (章节ID 11)
+  [11-01] 中: 特征值分解
+           英: Eigenvalue_Decomposition_EN
+           PPT中/英: 特征值分解_中文 | Eigenvalue_Decomposition_EN
+           NB LA_11_01_01.ipynb : 特征值分解
+  [11-02] 中: 谱分解
+           英: Spectral_Decomposition_EN
+           PPT中/英: 谱分解_中文 | Spectral_Decomposition_EN
+           NB 无
+  [11-03] 中: 非对称方阵的EVD
+           英: EVD_Nonsymmetric_EN
+           PPT中/英: 非对称方阵EVD_中文 | Asymmetric_Matrix_EVD_EN
+           NB 无
+  [11-04] 中: 格拉姆矩阵
+           英: Gram_Matrix_EN
+           PPT中/英: 格拉姆矩阵_中文 | Gram_Matrix_EN
+           NB 无
+
+==============================================================================
+第 12 章  (章节ID 12)
+  [12-01] 中: 数据矩阵
+           英: Data_Matrix_EN
+           PPT中/英: None | None
+           NB LA_12_01_01.ipynb : 数据矩阵分析
+  [12-02] 中: 椭圆视角看主成分分析
+           英: PCA_Ellipse_EN
+           PPT中/英: None | None
+           NB LA_12_02_01.ipynb : 椭圆视角看主成分分析
+  [12-03] 中: 主成分分析
+           英: Revisiting_PCA_EN
+           PPT中/英: None | None
+           NB LA_12_03_01.ipynb : 主成分分析
+           NB LA_12_03_02.ipynb : 利用statsmodels.multivariate.pca完成主成分分析
+
+==============================================================================
+第 13 章  (章节ID 13)
+  [13-01] 中: 二次型
+           英: Positive_Definiteness_EN
+           PPT中/英: None | None
+           NB 无
+  [13-02] 中: Cholesky分解
+           英: Cholesky_Decomposition_EN
+           PPT中/英: None | None
+           NB 无
+  [13-03] 中: 瑞利商
+           英: Rayleigh_Quotient_EN
+           PPT中/英: None | None
+           NB 无
+  [13-04] 中: 距离度量
+           英: Distance_Metrics_EN
+           PPT中/英: None | None
+           NB 无
+
+==============================================================================
+第 14 章  (章节ID 14)
+  [14-01] 中: 奇异值分解
+           英: SVD_EN
+           PPT中/英: 奇异值分解_中文 | Singular_Value_Decomposition_EN
+           NB LA_14_01_01.ipynb : 两个格拉姆矩阵的谱分解还原SVD
+  [14-02] 中: 几何角度看SVD
+           英: SVD_Geometric_View_EN
+           PPT中/英: 几何视角看SVD_中文 | Geometric_View_of_SVD_EN
+           NB 无
+  [14-03] 中: 四种奇异值分解
+           英: Four_Types_of_SVD_EN
+           PPT中/英: 四种奇异值分解_中文 | Four_Flavors_of_SVD_EN
+           NB 无
+  [14-04] 中: 截断SVD
+           英: Truncated_SVD_EN
+           PPT中/英: 截断型奇异值分解_中文 | Truncated_SVD_EN
+           NB 无
+
+==============================================================================
+第 15 章  (章节ID 15)
+  [15-01] 中: 无向图
+           英: Undirected_Graph_EN
+           PPT中/英: 无向图_中文 | Undirected_Graphs_EN
+           NB LA_15_01_01.ipynb : 用Networkx绘制无向图
+           NB LA_15_01_02.ipynb : 从邻接矩阵到无向图
+           NB LA_15_01_03.ipynb : 度矩阵
+           NB LA_15_01_04.ipynb : 有权无向图
+  [15-02] 中: 有向图
+           英: Directed_Graph_EN
+           PPT中/英: 有向图_中文 | Directed_Graphs_EN
+           NB LA_15_02_01.ipynb : 用Networkx绘制有向图
+           NB LA_15_02_02.ipynb : 从邻接矩阵到有向图
+  [15-03] 中: 转移矩阵
+           英: Transition_Matrix_EN
+           PPT中/英: 转移矩阵_中文 | Transition_Matrix_EN
+           NB 无
+  [15-04] 中: 拉普拉斯矩阵
+           英: Laplacian_Matrix_and_Spectral_Clustering_EN
+           PPT中/英: 拉普拉斯矩阵和谱聚类_中文 | Laplacian_Matrix_Spectral_Clustering_EN
+           NB LA_15_04_01.ipynb : 空手道俱乐部成员聚类

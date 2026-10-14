@@ -1,0 +1,442 @@
+[
+ {
+  "file": "LA_01_01_01.ipynb",
+  "chapter": "1",
+  "title": "一维数组"
+ },
+ {
+  "file": "LA_01_01_02.ipynb",
+  "chapter": "1",
+  "title": "二维数组创建向量"
+ },
+ {
+  "file": "LA_01_02_01.ipynb",
+  "chapter": "1",
+  "title": "使用numpy.meshgrid() 创建二维网格数组"
+ },
+ {
+  "file": "LA_01_02_02.ipynb",
+  "chapter": "1",
+  "title": "使用numpy.meshgrid() 创建三维网格数组"
+ },
+ {
+  "file": "LA_01_02_03.ipynb",
+  "chapter": "1",
+  "title": "计算向量大小"
+ },
+ {
+  "file": "LA_01_03_01.ipynb",
+  "chapter": "1",
+  "title": "向量加法"
+ },
+ {
+  "file": "LA_01_03_02.ipynb",
+  "chapter": "1",
+  "title": "平行四边形法则"
+ },
+ {
+  "file": "LA_01_03_03.ipynb",
+  "chapter": "1",
+  "title": "三角形法则"
+ },
+ {
+  "file": "LA_01_04_01.ipynb",
+  "chapter": "1",
+  "title": "标量乘法"
+ },
+ {
+  "file": "LA_01_04_02.ipynb",
+  "chapter": "1",
+  "title": "可视化标量乘法"
+ },
+ {
+  "file": "LA_01_05_01.ipynb",
+  "chapter": "1",
+  "title": "单位向量"
+ },
+ {
+  "file": "LA_01_05_02.ipynb",
+  "chapter": "1",
+  "title": "极坐标、平面直角坐标"
+ },
+ {
+  "file": "LA_01_05_03.ipynb",
+  "chapter": "1",
+  "title": "直角坐标系画单位圆"
+ },
+ {
+  "file": "LA_01_05_04.ipynb",
+  "chapter": "1",
+  "title": "极坐标坐标系画同心圆"
+ },
+ {
+  "file": "LA_01_05_05.ipynb",
+  "chapter": "1",
+  "title": "球坐标、三维直角坐标"
+ },
+ {
+  "file": "LA_01_05_06.ipynb",
+  "chapter": "1",
+  "title": "可视化正球体"
+ },
+ {
+  "file": "LA_01_06_01.ipynb",
+  "chapter": "1",
+  "title": "向量内积"
+ },
+ {
+  "file": "LA_01_06_02.ipynb",
+  "chapter": "1",
+  "title": "向量夹角"
+ },
+ {
+  "file": "LA_01_07_01.ipynb",
+  "chapter": "1",
+  "title": "标量投影"
+ },
+ {
+  "file": "LA_01_07_02.ipynb",
+  "chapter": "1",
+  "title": "向量投影"
+ },
+ {
+  "file": "LA_01_07_03.ipynb",
+  "chapter": "1",
+  "title": "向量正交分解"
+ },
+ {
+  "file": "LA_01_08_01.ipynb",
+  "chapter": "1",
+  "title": "L1范数"
+ },
+ {
+  "file": "LA_01_08_02.ipynb",
+  "chapter": "1",
+  "title": "L1范数等距线"
+ },
+ {
+  "file": "LA_01_08_03.ipynb",
+  "chapter": "1",
+  "title": "L2范数"
+ },
+ {
+  "file": "LA_01_08_04.ipynb",
+  "chapter": "1",
+  "title": "L2范数等距线"
+ },
+ {
+  "file": "LA_01_08_05.ipynb",
+  "chapter": "1",
+  "title": "$L^{\\infty}$ 范数"
+ },
+ {
+  "file": "LA_02_01_01.ipynb",
+  "chapter": "2",
+  "title": "矩阵的索引切片"
+ },
+ {
+  "file": "LA_02_01_02.ipynb",
+  "chapter": "2",
+  "title": "矩阵加减、数乘"
+ },
+ {
+  "file": "LA_02_02_01.ipynb",
+  "chapter": "2",
+  "title": "矩阵转置"
+ },
+ {
+  "file": "LA_02_02_02.ipynb",
+  "chapter": "2",
+  "title": "不同形状的矩阵转置"
+ },
+ {
+  "file": "LA_02_04_01.ipynb",
+  "chapter": "2",
+  "title": "热图可视化矩阵乘法"
+ },
+ {
+  "file": "LA_02_04_02.ipynb",
+  "chapter": "2",
+  "title": "计算矩阵乘法的每个元素"
+ },
+ {
+  "file": "LA_02_04_03.ipynb",
+  "chapter": "2",
+  "title": "自定义函数计算矩阵乘法"
+ },
+ {
+  "file": "LA_03_01_01.ipynb",
+  "chapter": "3",
+  "title": "矩阵乘法第一视角"
+ },
+ {
+  "file": "LA_03_01_02.ipynb",
+  "chapter": "3",
+  "title": "Python自定义函数计算矩阵乘法，内积视角"
+ },
+ {
+  "file": "LA_03_02_01.ipynb",
+  "chapter": "3",
+  "title": "矩阵乘法第二视角"
+ },
+ {
+  "file": "LA_03_02_02.ipynb",
+  "chapter": "3",
+  "title": "用热图可视化矩阵乘法第二视角"
+ },
+ {
+  "file": "LA_03_02_03.ipynb",
+  "chapter": "3",
+  "title": "Python自定义函数计算矩阵乘法，外积视角"
+ },
+ {
+  "file": "LA_03_03_01.ipynb",
+  "chapter": "3",
+  "title": "矩阵乘法第三视角"
+ },
+ {
+  "file": "LA_03_03_02.ipynb",
+  "chapter": "3",
+  "title": "用热图可视化矩阵乘法第三视角"
+ },
+ {
+  "file": "LA_03_03_03.ipynb",
+  "chapter": "3",
+  "title": "Python自定义函数计算矩阵乘法，列向量线性组合视角"
+ },
+ {
+  "file": "LA_03_04_01.ipynb",
+  "chapter": "3",
+  "title": "矩阵乘法第四视角"
+ },
+ {
+  "file": "LA_03_04_02.ipynb",
+  "chapter": "3",
+  "title": "用热图可视化矩阵乘法第四视角"
+ },
+ {
+  "file": "LA_03_04_03.ipynb",
+  "chapter": "3",
+  "title": "Python自定义函数计算矩阵乘法，行向量线性组合视角"
+ },
+ {
+  "file": "LA_04_01_01.ipynb",
+  "chapter": "4",
+  "title": "2 x 2方阵行列式对应平行四边形面积"
+ },
+ {
+  "file": "LA_04_02_01.ipynb",
+  "chapter": "4",
+  "title": "3 x 3方阵行列式对应平行六面体体积"
+ },
+ {
+  "file": "LA_04_04_01.ipynb",
+  "chapter": "4",
+  "title": "伴随矩阵法求解逆矩阵"
+ },
+ {
+  "file": "LA_05_01_01.ipynb",
+  "chapter": "5",
+  "title": "2 x 2矩阵求逆"
+ },
+ {
+  "file": "LA_05_01_02.ipynb",
+  "chapter": "5",
+  "title": "NumPy计算逆矩阵"
+ },
+ {
+  "file": "LA_05_01_03.ipynb",
+  "chapter": "5",
+  "title": "SymPy计算逆矩阵"
+ },
+ {
+  "file": "LA_05_03_01.ipynb",
+  "chapter": "5",
+  "title": "伴随矩阵法求解逆矩阵"
+ },
+ {
+  "file": "LA_06_01_01.ipynb",
+  "chapter": "6",
+  "title": "秩"
+ },
+ {
+  "file": "LA_06_03_01.ipynb",
+  "chapter": "6",
+  "title": "计算坐标"
+ },
+ {
+  "file": "LA_06_03_02.ipynb",
+  "chapter": "6",
+  "title": "绘制规范正交基网格"
+ },
+ {
+  "file": "LA_06_03_03.ipynb",
+  "chapter": "6",
+  "title": "基底转换"
+ },
+ {
+  "file": "LA_07_01_01.ipynb",
+  "chapter": "7",
+  "title": "鸡兔同笼-矩阵乘法"
+ },
+ {
+  "file": "LA_07_01_02.ipynb",
+  "chapter": "7",
+  "title": "鸡兔同笼-用numpy.linalg.solve()求解"
+ },
+ {
+  "file": "LA_07_01_03.ipynb",
+  "chapter": "7",
+  "title": "鸡兔同笼-用SymPy求解"
+ },
+ {
+  "file": "LA_07_01_04.ipynb",
+  "chapter": "7",
+  "title": "可视化线性方程组"
+ },
+ {
+  "file": "LA_07_03_01.ipynb",
+  "chapter": "7",
+  "title": "初等行变换求解线性方程组"
+ },
+ {
+  "file": "LA_07_03_02.ipynb",
+  "chapter": "7",
+  "title": "初等行变换求逆矩阵"
+ },
+ {
+  "file": "LA_08_01_01.ipynb",
+  "chapter": "8",
+  "title": "线性变换"
+ },
+ {
+  "file": "LA_08_02_01.ipynb",
+  "chapter": "8",
+  "title": "平面缩放"
+ },
+ {
+  "file": "LA_08_03_01.ipynb",
+  "chapter": "8",
+  "title": "三维绕轴旋转"
+ },
+ {
+  "file": "LA_09_04_01.ipynb",
+  "chapter": "9",
+  "title": "施密特正交化"
+ },
+ {
+  "file": "LA_09_04_02.ipynb",
+  "chapter": "9",
+  "title": "施密特正交化，自定义函数"
+ },
+ {
+  "file": "LA_09_05_01.ipynb",
+  "chapter": "9",
+  "title": "完全型QR分解"
+ },
+ {
+  "file": "LA_09_05_02.ipynb",
+  "chapter": "9",
+  "title": "经济型QR分解"
+ },
+ {
+  "file": "LA_10_01_01.ipynb",
+  "chapter": "10",
+  "title": "一元线性回归"
+ },
+ {
+  "file": "LA_10_01_02.ipynb",
+  "chapter": "10",
+  "title": "使用scikit-learn完成一元线性回归"
+ },
+ {
+  "file": "LA_10_01_03.ipynb",
+  "chapter": "10",
+  "title": "截距为0的一元线性回归模型"
+ },
+ {
+  "file": "LA_10_02_01.ipynb",
+  "chapter": "10",
+  "title": "二元线性回归"
+ },
+ {
+  "file": "LA_10_02_02.ipynb",
+  "chapter": "10",
+  "title": "使用scikit-learn完成二元线性回归"
+ },
+ {
+  "file": "LA_10_03_01.ipynb",
+  "chapter": "10",
+  "title": "一元多项式回归"
+ },
+ {
+  "file": "LA_10_03_02.ipynb",
+  "chapter": "10",
+  "title": "使用scikit-learn完成一元多项式回归"
+ },
+ {
+  "file": "LA_11_01_01.ipynb",
+  "chapter": "11",
+  "title": "特征值分解"
+ },
+ {
+  "file": "LA_12_01_01.ipynb",
+  "chapter": "12",
+  "title": "数据矩阵分析"
+ },
+ {
+  "file": "LA_12_02_01.ipynb",
+  "chapter": "12",
+  "title": "椭圆视角看主成分分析"
+ },
+ {
+  "file": "LA_12_03_01.ipynb",
+  "chapter": "12",
+  "title": "主成分分析"
+ },
+ {
+  "file": "LA_12_03_02.ipynb",
+  "chapter": "12",
+  "title": "利用statsmodels.multivariate.pca完成主成分分析"
+ },
+ {
+  "file": "LA_14_01_01.ipynb",
+  "chapter": "14",
+  "title": "两个格拉姆矩阵的谱分解还原SVD"
+ },
+ {
+  "file": "LA_15_01_01.ipynb",
+  "chapter": "15",
+  "title": "用Networkx绘制无向图"
+ },
+ {
+  "file": "LA_15_01_02.ipynb",
+  "chapter": "15",
+  "title": "从邻接矩阵到无向图"
+ },
+ {
+  "file": "LA_15_01_03.ipynb",
+  "chapter": "15",
+  "title": "度矩阵"
+ },
+ {
+  "file": "LA_15_01_04.ipynb",
+  "chapter": "15",
+  "title": "有权无向图"
+ },
+ {
+  "file": "LA_15_02_01.ipynb",
+  "chapter": "15",
+  "title": "用Networkx绘制有向图"
+ },
+ {
+  "file": "LA_15_02_02.ipynb",
+  "chapter": "15",
+  "title": "从邻接矩阵到有向图"
+ },
+ {
+  "file": "LA_15_04_01.ipynb",
+  "chapter": "15",
+  "title": "空手道俱乐部成员聚类"
+ }
+]

@@ -1,0 +1,27 @@
+# 《线性代数不难》配套 Python 环境
+# 用法：
+#   conda env create -f environment.yml
+#   conda activate ladm
+name: ladm
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.12          # 3.10–3.12 都合适；不建议用最新版
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - networkx
+  - scikit-learn
+  - statsmodels
+  - sympy
+  - scipy
+  - jupyterlab
+  - ipykernel
+  - ipympl              # 3D / 交互图需要
+  - pip
+  - pip:
+      - pypdf           # 可选：用 Python 读 PDF
